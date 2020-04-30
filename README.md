@@ -9,3 +9,6 @@
 5. Open Biq Query in Google Console,
 
 6. Load the NDJSON file into Big Query.
+
+
+https://storage.cloud.google.com/nefu_xi/player
